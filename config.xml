@@ -33,7 +33,7 @@
     <engine name="ios" spec="latest" />
     <plugin name="cordova-plugin-wkwebview-engine" spec="~1.1.0" />
     <plugin name="cordova-plugin-console" spec="~1.0.4" />
-    <plugin name="cordova-plugin-googlemaps" spec="https://github.com/mapsplugin/cordova-plugin-googlemaps.git#multiple_maps">
+    <plugin name="cordova-plugin-googlemaps" spec="https://github.com/victor167/cordova-plugin-googlemaps-master">
         <variable name="API_KEY_FOR_ANDROID" value="AIzaSyCuqkgpLObHb_kwkkOJXqoTpZXceThYsog" />
         <variable name="API_KEY_FOR_IOS" value="AIzaSyCuqkgpLObHb_kwkkOJXqoTpZXceThYsog" />
         <variable name="NSLOCATIONWHENINUSEUSAGEDESCRIPTION" value="Show your location on the map" />
