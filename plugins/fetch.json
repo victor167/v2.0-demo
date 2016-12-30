@@ -26,8 +26,9 @@
     "cordova-plugin-googlemaps": {
         "source": {
             "type": "git",
-            "url": "https://github.com/victor167/cordova-plugin-googlemaps-master",
-            "subdir": "."
+            "url": "https://github.com/mapsplugin/cordova-plugin-googlemaps.git",
+            "subdir": ".",
+            "ref": "multiple_maps"
         },
         "is_top_level": true,
         "variables": {
